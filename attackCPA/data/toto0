@@ -1,0 +1,768 @@
+# hypothesis: key = 00
+0 -0.043973
+
+# hypothesis: key = 01
+0 -0.005736
+
+# hypothesis: key = 02
+0 -0.035210
+
+# hypothesis: key = 03
+0 0.075925
+
+# hypothesis: key = 04
+0 -0.017591
+
+# hypothesis: key = 05
+0 -0.000690
+
+# hypothesis: key = 06
+0 -0.051729
+
+# hypothesis: key = 07
+0 0.007374
+
+# hypothesis: key = 08
+0 -0.056954
+
+# hypothesis: key = 09
+0 0.013083
+
+# hypothesis: key = 0A
+0 -0.107886
+
+# hypothesis: key = 0B
+0 0.008124
+
+# hypothesis: key = 0C
+0 0.049113
+
+# hypothesis: key = 0D
+0 0.002203
+
+# hypothesis: key = 0E
+0 0.013257
+
+# hypothesis: key = 0F
+0 0.115621
+
+# hypothesis: key = 10
+0 -0.063888
+
+# hypothesis: key = 11
+0 -0.027839
+
+# hypothesis: key = 12
+0 -0.002037
+
+# hypothesis: key = 13
+0 -0.032548
+
+# hypothesis: key = 14
+0 -0.063740
+
+# hypothesis: key = 15
+0 0.050699
+
+# hypothesis: key = 16
+0 0.021784
+
+# hypothesis: key = 17
+0 -0.013847
+
+# hypothesis: key = 18
+0 0.025152
+
+# hypothesis: key = 19
+0 0.043336
+
+# hypothesis: key = 1A
+0 0.001187
+
+# hypothesis: key = 1B
+0 0.070155
+
+# hypothesis: key = 1C
+0 -0.019684
+
+# hypothesis: key = 1D
+0 0.021814
+
+# hypothesis: key = 1E
+0 -0.005435
+
+# hypothesis: key = 1F
+0 0.034746
+
+# hypothesis: key = 20
+0 -0.081602
+
+# hypothesis: key = 21
+0 0.038921
+
+# hypothesis: key = 22
+0 -0.079501
+
+# hypothesis: key = 23
+0 -0.037210
+
+# hypothesis: key = 24
+0 0.024526
+
+# hypothesis: key = 25
+0 0.038727
+
+# hypothesis: key = 26
+0 -0.052427
+
+# hypothesis: key = 27
+0 -0.006929
+
+# hypothesis: key = 28
+0 0.078001
+
+# hypothesis: key = 29
+0 0.011183
+
+# hypothesis: key = 2A
+0 -0.054252
+
+# hypothesis: key = 2B
+0 0.297374
+
+# hypothesis: key = 2C
+0 0.102436
+
+# hypothesis: key = 2D
+0 0.013419
+
+# hypothesis: key = 2E
+0 -0.040314
+
+# hypothesis: key = 2F
+0 0.034665
+
+# hypothesis: key = 30
+0 -0.027601
+
+# hypothesis: key = 31
+0 0.005365
+
+# hypothesis: key = 32
+0 0.017443
+
+# hypothesis: key = 33
+0 -0.004556
+
+# hypothesis: key = 34
+0 -0.038184
+
+# hypothesis: key = 35
+0 -0.043890
+
+# hypothesis: key = 36
+0 -0.064641
+
+# hypothesis: key = 37
+0 0.029080
+
+# hypothesis: key = 38
+0 -0.027356
+
+# hypothesis: key = 39
+0 0.017528
+
+# hypothesis: key = 3A
+0 -0.008660
+
+# hypothesis: key = 3B
+0 -0.010377
+
+# hypothesis: key = 3C
+0 0.013721
+
+# hypothesis: key = 3D
+0 0.032001
+
+# hypothesis: key = 3E
+0 -0.086571
+
+# hypothesis: key = 3F
+0 0.054464
+
+# hypothesis: key = 40
+0 0.048605
+
+# hypothesis: key = 41
+0 -0.010086
+
+# hypothesis: key = 42
+0 -0.051907
+
+# hypothesis: key = 43
+0 0.048191
+
+# hypothesis: key = 44
+0 -0.012623
+
+# hypothesis: key = 45
+0 -0.024905
+
+# hypothesis: key = 46
+0 0.025273
+
+# hypothesis: key = 47
+0 0.045523
+
+# hypothesis: key = 48
+0 0.018593
+
+# hypothesis: key = 49
+0 0.058138
+
+# hypothesis: key = 4A
+0 0.045626
+
+# hypothesis: key = 4B
+0 -0.025395
+
+# hypothesis: key = 4C
+0 0.073410
+
+# hypothesis: key = 4D
+0 0.003594
+
+# hypothesis: key = 4E
+0 -0.077635
+
+# hypothesis: key = 4F
+0 0.000660
+
+# hypothesis: key = 50
+0 0.022474
+
+# hypothesis: key = 51
+0 -0.020200
+
+# hypothesis: key = 52
+0 0.035985
+
+# hypothesis: key = 53
+0 -0.060094
+
+# hypothesis: key = 54
+0 -0.051194
+
+# hypothesis: key = 55
+0 -0.038316
+
+# hypothesis: key = 56
+0 -0.004507
+
+# hypothesis: key = 57
+0 -0.036204
+
+# hypothesis: key = 58
+0 -0.042430
+
+# hypothesis: key = 59
+0 0.027529
+
+# hypothesis: key = 5A
+0 0.007051
+
+# hypothesis: key = 5B
+0 0.017185
+
+# hypothesis: key = 5C
+0 0.015740
+
+# hypothesis: key = 5D
+0 0.009587
+
+# hypothesis: key = 5E
+0 0.059705
+
+# hypothesis: key = 5F
+0 -0.040316
+
+# hypothesis: key = 60
+0 0.009864
+
+# hypothesis: key = 61
+0 -0.035852
+
+# hypothesis: key = 62
+0 -0.019540
+
+# hypothesis: key = 63
+0 0.056015
+
+# hypothesis: key = 64
+0 0.060956
+
+# hypothesis: key = 65
+0 -0.105095
+
+# hypothesis: key = 66
+0 -0.116785
+
+# hypothesis: key = 67
+0 -0.007340
+
+# hypothesis: key = 68
+0 0.008154
+
+# hypothesis: key = 69
+0 -0.021902
+
+# hypothesis: key = 6A
+0 -0.037484
+
+# hypothesis: key = 6B
+0 0.009833
+
+# hypothesis: key = 6C
+0 -0.038301
+
+# hypothesis: key = 6D
+0 0.038263
+
+# hypothesis: key = 6E
+0 0.018662
+
+# hypothesis: key = 6F
+0 0.018517
+
+# hypothesis: key = 70
+0 0.001120
+
+# hypothesis: key = 71
+0 -0.036980
+
+# hypothesis: key = 72
+0 -0.012897
+
+# hypothesis: key = 73
+0 -0.036502
+
+# hypothesis: key = 74
+0 0.011129
+
+# hypothesis: key = 75
+0 0.002751
+
+# hypothesis: key = 76
+0 0.015912
+
+# hypothesis: key = 77
+0 0.053184
+
+# hypothesis: key = 78
+0 0.000825
+
+# hypothesis: key = 79
+0 -0.002905
+
+# hypothesis: key = 7A
+0 -0.011918
+
+# hypothesis: key = 7B
+0 0.004715
+
+# hypothesis: key = 7C
+0 -0.062463
+
+# hypothesis: key = 7D
+0 0.002755
+
+# hypothesis: key = 7E
+0 0.043436
+
+# hypothesis: key = 7F
+0 -0.037754
+
+# hypothesis: key = 80
+0 0.068378
+
+# hypothesis: key = 81
+0 -0.050141
+
+# hypothesis: key = 82
+0 -0.051501
+
+# hypothesis: key = 83
+0 0.045797
+
+# hypothesis: key = 84
+0 -0.031693
+
+# hypothesis: key = 85
+0 0.040113
+
+# hypothesis: key = 86
+0 0.010527
+
+# hypothesis: key = 87
+0 -0.005134
+
+# hypothesis: key = 88
+0 0.002933
+
+# hypothesis: key = 89
+0 0.068131
+
+# hypothesis: key = 8A
+0 0.063720
+
+# hypothesis: key = 8B
+0 -0.025651
+
+# hypothesis: key = 8C
+0 -0.013465
+
+# hypothesis: key = 8D
+0 -0.046553
+
+# hypothesis: key = 8E
+0 0.013901
+
+# hypothesis: key = 8F
+0 0.004571
+
+# hypothesis: key = 90
+0 -0.037099
+
+# hypothesis: key = 91
+0 -0.008506
+
+# hypothesis: key = 92
+0 -0.014608
+
+# hypothesis: key = 93
+0 0.063050
+
+# hypothesis: key = 94
+0 0.069236
+
+# hypothesis: key = 95
+0 -0.062229
+
+# hypothesis: key = 96
+0 -0.057033
+
+# hypothesis: key = 97
+0 0.002313
+
+# hypothesis: key = 98
+0 -0.016134
+
+# hypothesis: key = 99
+0 0.021211
+
+# hypothesis: key = 9A
+0 -0.001699
+
+# hypothesis: key = 9B
+0 -0.042443
+
+# hypothesis: key = 9C
+0 0.000134
+
+# hypothesis: key = 9D
+0 -0.007443
+
+# hypothesis: key = 9E
+0 -0.080215
+
+# hypothesis: key = 9F
+0 -0.012422
+
+# hypothesis: key = A0
+0 -0.004456
+
+# hypothesis: key = A1
+0 0.020161
+
+# hypothesis: key = A2
+0 0.060192
+
+# hypothesis: key = A3
+0 -0.013163
+
+# hypothesis: key = A4
+0 0.034899
+
+# hypothesis: key = A5
+0 0.050369
+
+# hypothesis: key = A6
+0 -0.012315
+
+# hypothesis: key = A7
+0 0.045470
+
+# hypothesis: key = A8
+0 -0.017947
+
+# hypothesis: key = A9
+0 -0.057314
+
+# hypothesis: key = AA
+0 0.028534
+
+# hypothesis: key = AB
+0 -0.007825
+
+# hypothesis: key = AC
+0 -0.003091
+
+# hypothesis: key = AD
+0 0.000219
+
+# hypothesis: key = AE
+0 -0.005647
+
+# hypothesis: key = AF
+0 0.027416
+
+# hypothesis: key = B0
+0 0.018672
+
+# hypothesis: key = B1
+0 -0.012564
+
+# hypothesis: key = B2
+0 -0.079325
+
+# hypothesis: key = B3
+0 0.044603
+
+# hypothesis: key = B4
+0 0.023777
+
+# hypothesis: key = B5
+0 -0.056567
+
+# hypothesis: key = B6
+0 -0.060529
+
+# hypothesis: key = B7
+0 0.005730
+
+# hypothesis: key = B8
+0 -0.062460
+
+# hypothesis: key = B9
+0 -0.030973
+
+# hypothesis: key = BA
+0 -0.006212
+
+# hypothesis: key = BB
+0 0.046165
+
+# hypothesis: key = BC
+0 -0.036946
+
+# hypothesis: key = BD
+0 0.063386
+
+# hypothesis: key = BE
+0 -0.004115
+
+# hypothesis: key = BF
+0 -0.064522
+
+# hypothesis: key = C0
+0 0.014050
+
+# hypothesis: key = C1
+0 0.034409
+
+# hypothesis: key = C2
+0 -0.016869
+
+# hypothesis: key = C3
+0 0.009106
+
+# hypothesis: key = C4
+0 -0.032061
+
+# hypothesis: key = C5
+0 0.082373
+
+# hypothesis: key = C6
+0 0.049961
+
+# hypothesis: key = C7
+0 0.023114
+
+# hypothesis: key = C8
+0 0.072509
+
+# hypothesis: key = C9
+0 0.018693
+
+# hypothesis: key = CA
+0 0.031948
+
+# hypothesis: key = CB
+0 0.008489
+
+# hypothesis: key = CC
+0 0.023606
+
+# hypothesis: key = CD
+0 -0.024927
+
+# hypothesis: key = CE
+0 -0.003216
+
+# hypothesis: key = CF
+0 0.025153
+
+# hypothesis: key = D0
+0 -0.010390
+
+# hypothesis: key = D1
+0 -0.045350
+
+# hypothesis: key = D2
+0 -0.009782
+
+# hypothesis: key = D3
+0 0.031763
+
+# hypothesis: key = D4
+0 -0.056839
+
+# hypothesis: key = D5
+0 0.009525
+
+# hypothesis: key = D6
+0 0.033921
+
+# hypothesis: key = D7
+0 0.025218
+
+# hypothesis: key = D8
+0 -0.023603
+
+# hypothesis: key = D9
+0 -0.082895
+
+# hypothesis: key = DA
+0 -0.051872
+
+# hypothesis: key = DB
+0 0.028324
+
+# hypothesis: key = DC
+0 0.016197
+
+# hypothesis: key = DD
+0 0.010085
+
+# hypothesis: key = DE
+0 -0.073562
+
+# hypothesis: key = DF
+0 0.052239
+
+# hypothesis: key = E0
+0 -0.024977
+
+# hypothesis: key = E1
+0 0.061066
+
+# hypothesis: key = E2
+0 0.059856
+
+# hypothesis: key = E3
+0 0.013246
+
+# hypothesis: key = E4
+0 0.005329
+
+# hypothesis: key = E5
+0 -0.004485
+
+# hypothesis: key = E6
+0 0.000488
+
+# hypothesis: key = E7
+0 0.032724
+
+# hypothesis: key = E8
+0 0.037953
+
+# hypothesis: key = E9
+0 -0.040996
+
+# hypothesis: key = EA
+0 -0.044889
+
+# hypothesis: key = EB
+0 -0.037959
+
+# hypothesis: key = EC
+0 -0.025241
+
+# hypothesis: key = ED
+0 0.026565
+
+# hypothesis: key = EE
+0 0.011972
+
+# hypothesis: key = EF
+0 0.003097
+
+# hypothesis: key = F0
+0 -0.036671
+
+# hypothesis: key = F1
+0 -0.006732
+
+# hypothesis: key = F2
+0 -0.079891
+
+# hypothesis: key = F3
+0 0.003274
+
+# hypothesis: key = F4
+0 -0.039450
+
+# hypothesis: key = F5
+0 0.023371
+
+# hypothesis: key = F6
+0 -0.041239
+
+# hypothesis: key = F7
+0 -0.057513
+
+# hypothesis: key = F8
+0 0.062006
+
+# hypothesis: key = F9
+0 0.038090
+
+# hypothesis: key = FA
+0 -0.029811
+
+# hypothesis: key = FB
+0 0.008072
+
+# hypothesis: key = FC
+0 0.017358
+
+# hypothesis: key = FD
+0 -0.011584
+
+# hypothesis: key = FE
+0 -0.002115
+
+# hypothesis: key = FF
+0 0.073156
+

@@ -1,0 +1,27 @@
+#! /bin/sh
+
+[ "$1" ] || { echo name needed; exit 1; }
+FILE=$1
+if [ "$2" ] ; then
+    N=$2
+    TITLE="correlation at machine cycle $N"
+else
+    N="$(grep -o -m1 '^[0-9]\+' "$FILE")"
+    TITLE="correlation"
+fi
+TMP=$(mktemp)
+sed -rn \
+    -e '/key = [0-9A-F]+$/{s/^[^=]+= //;h}' \
+    -e '/^'$N' /{G;s/'$N' ([0-9.-]+)\n([0-9A-F]+)/0x\2 \1/p}' \
+    "$FILE" >$TMP
+{
+    echo 'set yrange [-1:1]'
+    echo 'set xlabel "key hypothesis"'
+    echo 'set ylabel "correlation"'
+    echo 'set nokey'
+    echo 'set title "'"$TITLE"'"'
+    echo 'plot "'$TMP'" with lines'
+
+    echo "pause mouse"
+} | gnuplot
+rm -f $TMP
